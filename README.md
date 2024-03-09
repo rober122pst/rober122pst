@@ -1,7 +1,7 @@
 <h1 align="center">Olá galera! Sou o João Roberto</h1>
 <h4 align="center">Prefiro ser chamado de Rober 🙂! Sou um programador iniciante que faz de tudo um pouco envolvendo programação e arte 🎨. Sonho em ser um desenvolvedor de jogos 🎮.</h4>
 
-<div style="padding-bottom: 100px;">
+<div>
   <img align="center" width="500" src="https://cdna.artstation.com/p/assets/images/images/073/566/156/original/rober-araujo-trindade-sportrecife1.gif?1709944839" alt="Bandeira do Sport Recife"/> 
 </div>
 
@@ -42,5 +42,9 @@
   <a href="https://steamcommunity.com/id/Rober122/" target="_blank"><img src=	"https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=whitee" target="_blank"></a> 
 </div>
 
-![Snake Animation](https://github.com/rober122pst)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rober122pst/rober122pst/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rober122pst/rober122pst/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rober122pst/rober122pst/output/github-contribution-grid-snake.svg">
+</picture>
 
