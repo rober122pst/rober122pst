@@ -1,11 +1,9 @@
 <h1 align="center">Olá galera! Sou o João Roberto</h1>
 <h4 align="center">Prefiro ser chamado de Rober 🙂! Sou um programador iniciante que faz de tudo um pouco envolvendo programação e arte 🎨. Sonho em ser um desenvolvedor de jogos 🎮.</h4>
 
-<div style="text-align: center">
+<div style="text-align: center; margin-bottom: 100px;">
   <img align="center" width="500" src="https://cdna.artstation.com/p/assets/images/images/073/566/156/original/rober-araujo-trindade-sportrecife1.gif?1709944839"/> 
 </div>
-
-##
 
 <div>
   <a href="https://github.com/rober122pst">
