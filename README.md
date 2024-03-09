@@ -14,7 +14,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="blender" width="40" height="30"/></a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="30"/></a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="30"/></a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="30"/></a> 
