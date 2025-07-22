@@ -7,12 +7,13 @@
 
 ----
 
-<div>
+<p align="center">
   <a href="https://rober122pst.github.io/meu-portfolio/" target="_blank">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=rober122pst&show_icons=true&theme=radical&title_color=0&icon_color=0&bg_color=0c131c"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rober122pst&layout=compact&bg_color=0c131c"/>
-</div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rober122pst&layout=compact&bg_color=0c131c"/></a>  
+</p>
 
+<p align="center">
 <div style="display: inline_block"><br>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="blender" width="40" height="30"/></a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="30"/></a> 
@@ -30,6 +31,7 @@
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" alt="unreal" width="40" height="30"/> 
   <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="30"/></a>
 </div>
+</p>
 
 ##
 
