@@ -46,8 +46,10 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rober122pst/rober122pst/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rober122pst/rober122pst/output/github-contribution-grid-snake.svg">
+  <div align="center">
+   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=rober122pst&show_icons=true&theme=radical&title_color=ee4242&text_color=ee4242&icon_color=8b5cf6&bg_color=0c131c&border_color=ee4242"/>
+    <img src="https://streak-stats.demolab.com?user=DneyDev&theme=radical&hide_border=true"/>
+  </div>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rober122pst/rober122pst/output/github-contribution-grid-snake.svg">
 </picture>
 
